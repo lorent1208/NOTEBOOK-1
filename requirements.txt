@@ -1,0 +1,2 @@
+voila==02.6
+ipywidgets==7.6.3
